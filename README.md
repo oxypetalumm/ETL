@@ -1,4 +1,4 @@
-This is the final report for the ETL project by Lina and Carmen.
+This is the final report for the ETL project by Carmen and Lina.
 
 For this ETL project, we first identified the data sets that we would like to use. We decided to pick data set related to fast food and so we searched for the nutritional menu for three fast food places. The places are Starbucks, McDonalds, and Subway. 
 
