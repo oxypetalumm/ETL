@@ -30,7 +30,7 @@ Once we cleaned the data, we were then able to connect the datasets to our table
 
 We also had to check that our data had uploaded properly to pdAdmin and so we did a panda query to select all data from each three of the tables. 
 
-In addition, we created a query.sql file so that the three datasets are joined via a union all. As a result, all three of our datasets can be viewed in one output. We double checked the data by checking on the count of all the items which was 707. 
+In addition, we created a query.sql file so that the three datasets are joined via a union all. As a result, all three of our datasets can be viewed in one output. We double checked the data by checking on the count of all the items which was 572.
 
 By creating this table with data, we hope to utilize the nutrition food values to review, compare, or summarize how each fast food place stacks up against each other. 
 
